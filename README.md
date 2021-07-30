@@ -20,4 +20,12 @@
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" title="TYPESCRIPT"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="REACT" title="REACT"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NEXT" title="NEXT"></code>
-  
+<br>
+<hr>
+<div>
+<a href="https://www.facebook.com/guilherme.a.barros.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   <a href="https://www.instagram.com/guilhermebarros9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/guilherme-barros-4069b01bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="mailto:wingui3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://api.whatsapp.com/send?phone=5519982970535&text=Ol%C3%A1%20Guilherme%2C%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   </div>
