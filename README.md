@@ -28,5 +28,9 @@
    <a href="https://www.linkedin.com/in/guilherme-barros-4069b01bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:wingui3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://api.whatsapp.com/send?phone=5519982970535&text=Ol%C3%A1%20Guilherme%2C%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>     
+   
+  ![Snake animation](https://github.com/iamguui/iamguui/blob/output/github-contribution-grid-snake.svg)   
+   
    </div>
-        ![Snake animation](https://github.com/iamguui/iamguui/blob/output/github-contribution-grid-snake.svg)
+
+
