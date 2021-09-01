@@ -1,5 +1,5 @@
 
-<h2>Hi, i'm Guilherme Barros <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h2>
+<h2> Hi there <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h2>
    <img src="https://komarev.com/ghpvc/?username=iamguui&color=green" alt="iamguui" /> 
 <div>
   <a href="https://github.com/iamguui">
