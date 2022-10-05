@@ -1,6 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=120&section=header"/>
 
-<h2> Hi there <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h2>
-   <img src="https://komarev.com/ghpvc/?username=guilhermebarrosdev&color=green" alt="guilhermebarrosdev" /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=566573&size=35&center=true&vCenter=true&width=1000&lines=HI,+THERE+:%29)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/guilhermebarrosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,15 +21,17 @@
   <h2>Learning</h2>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" title="TYPESCRIPT"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NEXT" title="NEXT"></code>
+   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NODE" title="NODE"></code>
 <br>
 <hr>
 <div>
    <a href="https://www.linkedin.com/in/guilhermebarros9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:wingui3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://api.whatsapp.com/send?phone=5519982970535&text=Ol%C3%A1%20Guilherme%2C%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>     
-   
-  ![Snake animation](https://github.com/guilhermebarrosdev/guilhermebarrosdev/blob/output/github-contribution-grid-snake.svg)   
-   
+   <a href="https://api.whatsapp.com/send?phone=5519982970535&text=Ol%C3%A1%20Guilherme%2C%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ 
+ ![Snake animation](https://github.com/guilhermebarrosdev/guilhermebarrosdev/blob/output/github-contribution-grid-snake.svg)   
+ 
    </div>
-
+   
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=120&section=footer"/>
 
