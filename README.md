@@ -5,11 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarrosdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div>
-  <a href="https://github.com/guilhermebarrosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarrosdev&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <hr>
   <h2>Languages and tools:</h2>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="REACT" title="REACT"></code>
