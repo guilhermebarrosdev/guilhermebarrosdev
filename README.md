@@ -7,6 +7,7 @@
 </div>
 <hr>
   <h2>Languages and tools:</h2>
+     <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" title="TYPESCRIPT"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="REACT" title="REACT"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" title="JAVASCRIPT"></code>   
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"></code>
@@ -18,7 +19,6 @@
 <code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCODE" title="VSCODE"></code>
   <br>
   <h2>Learning</h2>
-  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" title="TYPESCRIPT"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NEXT" title="NEXT"></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NODE" title="NODE"></code>
 <br>
