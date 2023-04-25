@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/guilhermebarrosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarrosdev&layout=compact&langs_count=6&theme=dark&exclude_repo=WildBeast-Origamid,Bikcraft-Origamid,FlexBlog-Origamid,animations-transition-dio,Brafe---Layout-1,Brafe---Layout-2,Brafe---Layout-3,home-instagram-dio,background-text-css3,portfolio,interface-netflix-dio,pokedex-js,Css-SASS,MenuHamburguerMobile,ProjetoJogoDaVelha,jogo-da-velha-dio,requisitando-api-dio,animais-fantasticos"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarrosdev&layout=compact&langs_count=6&theme=dark&exclude_repo=WildBeast-Origamid,Bikcraft-Origamid,FlexBlog-Origamid,animations-transition-dio,Brafe---Layout-1,Brafe---Layout-2,Brafe---Layout-3,home-instagram-dio,background-text-css3,portfolio,interface-netflix-dio,pokedex-js,Css-SASS,MenuHamburguerMobile,ProjetoJogoDaVelha,jogo-da-velha-dio,requisitando-api-dio,animais-fantasticos"/>
 </div>
 <hr>
   <h2>💻🛠 Languages and tools</h2>
