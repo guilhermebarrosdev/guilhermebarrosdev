@@ -2,12 +2,12 @@
    <img src="https://komarev.com/ghpvc/?username=guilhermebarrosdev&color=blue" alt="guilhermebarrosdev" /> 
 <div>
   <a href="https://github.com/guilhermebarrosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarrosdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarrosdev&layout=compact&langs_count=6&theme=dark&exclude_repo=WildBeast-Origamid,Bikcraft-Origamid,FlexBlog-Origamid,animations-transition-dio,Brafe---Layout-1,Brafe---Layout-2,Brafe---Layout-3,home-instagram-dio,background-text-css3,portfolio,interface-netflix-dio,pokedex-js,Css-SASS,MenuHamburguerMobile,ProjetoJogoDaVelha,jogo-da-velha-dio,requisitando-api-dio,animais-fantasticos"/>
 </div>
 <hr>
   <h2>Languages and tools:</h2>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="REACT" title="REACT"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="REACT" title="REACT/REACT NATIVE"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" title="TYPESCRIPT"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" title="JAVASCRIPT"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="REDUX" title="REDUX" /></code>
