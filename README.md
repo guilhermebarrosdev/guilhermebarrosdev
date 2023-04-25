@@ -1,5 +1,5 @@
 <h2> Hi there <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h2>
-   <img src="https://komarev.com/ghpvc/?username=guilhermebarrosdev&color=blue" alt="guilhermebarrosdev" /> 
+
 <div>
   <a href="https://github.com/guilhermebarrosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
